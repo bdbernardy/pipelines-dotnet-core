@@ -14,6 +14,7 @@ namespace pipelines_dotnet_core
 {
     public class Startup
     {
+        this is an error
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
